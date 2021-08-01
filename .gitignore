@@ -16,3 +16,4 @@
 .direnv
 
 .private/
+customSpec.json
